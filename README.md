@@ -1,5 +1,5 @@
 # ICode
-Coding Problem:
+1. Coding Problem:
 Find k Number from any two number in the list;
 
 Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
@@ -9,5 +9,7 @@ Author: Rayudu Garaga
 
 Rule : 
 * solution should be in one pass? (i.e O(N))
+
+Sol: Source.cpp
 
 
